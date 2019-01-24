@@ -1,6 +1,6 @@
 <?php
 /*
-    Plugin Name: Simple Maintenance Mode
+    Plugin Name: JP Simple Maintenance Mode
     Plugin URI: https://janepedia.com
     Description: A basic maintenance mode plugin for WordPress if you're not interested in all the bells and whistles of other plugins.
     Author: Jane Lawson
